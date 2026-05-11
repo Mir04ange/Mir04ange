@@ -4,13 +4,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mir04ange&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=V%C3%A1%C5%A1niv%C3%BD+Full-stack+V%C3%BDvoj%C3%A1%C5%99;Specialista+na+React+Native;Tv%C5%AFrce+modern%C3%ADch+web%C5%AF;Nad%C5%A1enec+do+nov%C3%BDch+technologi%C3%AD )](https://git.io/typing-svg )
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Program%C3%A1tor%2C+kter%C3%A9ho+bav%C3%AD+pracovat+na+sv%C3%A9m+k%C3%B3du+v%C3%ADce+do+hloubky;M%C3%A1m+velik%C3%BD+z%C3%A1jem+ve+v%C5%A1em+nov%C3%A9m;Specialista+na+React+Native;Tv%C5%AFrce+modern%C3%ADch+web%C5%AF )](https://git.io/typing-svg )
 
 ---
 
 ### 🚀 O mně
 
-Baví mě vytvařet smysluplné programy, které mají potencionál v budoucnosti.
+Jsem vývojář, který miluje propojování **kreativity** s **technologií**. Moje cesta ve světě kódu je poháněna touhou tvořit aplikace, které nejen skvěle fungují, ale také skvěle vypadají.
 
 [🔭 Moje Projekty](#) • [🌱 Moje Cesta](#) • [💬 Kontakt](#)
 
@@ -19,7 +19,7 @@ Baví mě vytvařet smysluplné programy, které mají potencionál v budoucnost
 ### 🛠️ Technologie, které ovládám
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,php,mysql,mongodb,git,github,docker,aws,figma,tailwind&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,express,java,php,mysql,mongodb,git,github,docker,aws,figma,tailwind&perline=9" />
 </p>
 
 ---
