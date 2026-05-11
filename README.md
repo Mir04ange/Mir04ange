@@ -11,15 +11,14 @@
 ### 🚀 O mně
 
 Jsem vývojář, který miluje propojování **kreativity** s **technologií**. Moje cesta ve světě kódu je poháněna touhou tvořit aplikace, které nejen skvěle fungují, ale také skvěle vypadají.
-
-[🔭 Moje Projekty](#) • [🌱 Moje Cesta](#) • [💬 Kontakt](#)
+mail: miroslavblecha063@gmail.com
 
 ---
 
 ### 🛠️ Technologie, které ovládám
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,express,java,php,mysql,mongodb,git,github,docker,aws,figma,tailwind&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,php,mysql,git,github,blender,tailwind&perline=9" />
 </p>
 
 ---
