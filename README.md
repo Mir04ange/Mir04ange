@@ -11,33 +11,29 @@
 ### 🚀 O mně
 
 Jsem vývojář, který miluje propojování **kreativity** s **technologií**. Moje cesta ve světě kódu je poháněna touhou tvořit aplikace, které nejen skvěle fungují, ale také skvěle vypadají.
-mail: miroslavblecha063@gmail.com
+
+📧 **Email:** [miroslavblecha063@gmail.com](mailto:miroslavblecha063@gmail.com)
 
 ---
 
 ### 🛠️ Technologie, které ovládám
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,php,mysql,git,github,blender,photoshop,adobe,illustraotor" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,php,mysql,git,github,blender,ps,ai&perline=13" />
 </p>
 
 ---
 
 ### 📊 Moje GitHub Aktivita
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mir04ange&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mir04ange&layout=compact&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mir04ange&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mir04ange&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mir04ange&theme=tokyonight&hide_border=true" />
-</div>
+</p>
 
 ---
 
@@ -54,8 +50,7 @@ mail: miroslavblecha063@gmail.com
 
 <p align="center">
 <a href="https://github.com/Mir04ange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mir04ange" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mir04ange" height="30" width="40" /></a>
-<a href="https://instagram.com/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mir04ange" height="30" width="40" /></a>
+<a href="mailto:miroslavblecha063@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Mir04ange" height="30" width="40" /></a>
 </p>
 
 </div>
