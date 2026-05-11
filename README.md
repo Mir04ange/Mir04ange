@@ -1,36 +1,62 @@
-# Ahoj, jsem Mir04ange! 👋
+<div align="center">
 
-Jsem vášnivý vývojář se zájmem o moderní webové a mobilní technologie.
+# 💫 Ahoj, já jsem Mir04ange! 💫
 
-## 💻 Moje dovednosti:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mir04ange&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,ts,react,java,php&theme=dark" />
-  </a>
-</p>
-
-## 📊 GitHub Statistiky:
-
-![Mir04ange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mir04ange&show_icons=true&theme=radical)
-
-## 🚀 Nejpoužívanější jazyky:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mir04ange&layout=compact&theme=radical)
-
-## 🔥 Streak Statistiky:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mir04ange&theme=radical)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=V%C3%A1%C5%A1niv%C3%BD+Full-stack+V%C3%BDvoj%C3%A1%C5%99;Specialista+na+React+Native;Tv%C5%AFrce+modern%C3%ADch+web%C5%AF;Nad%C5%A1enec+do+nov%C3%BDch+technologi%C3%AD )](https://git.io/typing-svg )
 
 ---
 
-### 🌟 O mně
-Rád se učím nové věci a tvořím projekty, které mají smysl. Moje hlavní zaměření je na **React Native** a moderní webový vývoj.
+### 🚀 O mně
 
-*   🔭 Právě pracuji na zajímavých projektech.
-*   🌱 Neustále se učím nové technologie.
-*   💬 Ptejte se mě na cokoliv ohledně vývoje!
+Jsem vývojář, který miluje propojování **kreativity** s **technologií**. Moje cesta ve světě kódu je poháněna touhou tvořit aplikace, které nejen skvěle fungují, ale také skvěle vypadají.
 
-<!--
-Mir04ange/Mir04ange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[🔭 Moje Projekty](#) • [🌱 Moje Cesta](#) • [💬 Kontakt](#)
+
+---
+
+### 🛠️ Technologie, které ovládám
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,express,java,php,mysql,mongodb,git,github,docker,aws,figma,tailwind&perline=9" />
+</p>
+
+---
+
+### 📊 Moje GitHub Aktivita
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mir04ange&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mir04ange&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mir04ange&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### ⚡ Rychlá fakta
+
+- 🔭 Právě pracuji na **inovativních mobilních aplikacích**.
+- 🌱 Neustále se vzdělávám v oblasti **architektury softwaru**.
+- 💬 Ptejte se mě na **React Native** nebo **moderní JS frameworky**.
+- ⚡ Zábavný fakt: Věřím, že kód by měl být stejně čistý jako design.
+
+---
+
+### 📫 Spojte se se mnou
+
+<p align="center">
+<a href="https://github.com/Mir04ange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mir04ange" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mir04ange" height="30" width="40" /></a>
+<a href="https://instagram.com/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mir04ange" height="30" width="40" /></a>
+</p>
+
+</div>
