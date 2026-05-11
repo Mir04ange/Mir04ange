@@ -18,7 +18,7 @@ mail: miroslavblecha063@gmail.com
 ### 🛠️ Technologie, které ovládám
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,php,mysql,git,github,blender,tailwind&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,php,mysql,git,github,blender,photoshop,adobe,illustraotor" />
 </p>
 
 ---
