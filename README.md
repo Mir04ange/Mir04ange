@@ -27,8 +27,8 @@ Jsem vývojář, který miluje propojování **kreativity** s **technologií**. 
 ### 📊 Moje GitHub Aktivita
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mir04ange&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mir04ange&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Mir04ange&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Mir04ange&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
