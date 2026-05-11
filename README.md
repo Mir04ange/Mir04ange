@@ -10,7 +10,7 @@
 
 ### 🚀 O mně
 
-Jsem vývojář, který miluje propojování **kreativity** s **technologií**. Moje cesta ve světě kódu je poháněna touhou tvořit aplikace, které nejen skvěle fungují, ale také skvěle vypadají.
+Baví mě vytvařet smysluplné programy, které mají potencionál v budoucnosti.
 
 [🔭 Moje Projekty](#) • [🌱 Moje Cesta](#) • [💬 Kontakt](#)
 
@@ -19,7 +19,7 @@ Jsem vývojář, který miluje propojování **kreativity** s **technologií**. 
 ### 🛠️ Technologie, které ovládám
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,express,java,php,mysql,mongodb,git,github,docker,aws,figma,tailwind&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,php,mysql,mongodb,git,github,docker,aws,figma,tailwind&perline=9" />
 </p>
 
 ---
