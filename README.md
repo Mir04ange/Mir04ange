@@ -10,8 +10,6 @@
 
 ### ⬛ O MNĚ
 
-> **"Kód není jen práce, je to umění jít do hloubky."**
-
 Jsem programátor, kterého baví pracovat na svém kódu více do hloubky a má veliký zájem ve všem novém. Zaměřuji se na čistou architekturu a vizuálně působivé aplikace.
 
 📧 **KONTAKT:** [miroslavblecha063@gmail.com](mailto:miroslavblecha063@gmail.com)
@@ -21,7 +19,7 @@ Jsem programátor, kterého baví pracovat na svém kódu více do hloubky a má
 ### 🛠️ TECHNOLOGICKÝ STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,php,mysql,nette,git,github,blender,ps,ai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,php,mysql,git,github,blender,ps,ai&theme=dark" />
 </p>
 
 ---
