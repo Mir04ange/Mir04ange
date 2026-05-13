@@ -17,9 +17,9 @@ Jsem programátor, kterého baví pracovat na svém kódu více do hloubky a má
 ---
 
 ### 🛠️ TECHNOLOGICKÝ STACK
-
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,php,mysql,git,github,blender,ps,ai&theme=dark" />
+  <img src="https://img.shields.io/badge/Nette-3484D2?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ---
