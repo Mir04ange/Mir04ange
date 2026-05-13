@@ -21,7 +21,7 @@ Jsem programátor, kterého baví pracovat na svém kódu více do hloubky a má
 ### 🛠️ TECHNOLOGICKÝ STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,php,mysql,git,github,blender,ps,ai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,php,mysql,nette,git,github,blender,ps,ai&theme=dark" />
 </p>
 
 ---
