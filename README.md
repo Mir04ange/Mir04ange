@@ -65,4 +65,3 @@ Jsem programátor, kterého baví pracovat na svém kódu více do hloubky a má
 <img src="https://capsule-render.vercel.app/api?type=rect&gradient=to%20right,FF4500,FFD700&height=20&section=footer" width="100%" alt="Footer" />
 
 </div>
-
