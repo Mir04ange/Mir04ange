@@ -28,7 +28,7 @@ Jsem programátor, kterého baví pracovat na svém kódu více do hloubky a má
 ## <span style="color: #FF4500;">⭐ NEJPOUŽÍVANĚJŠÍ TECHNOLOGIE</span>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Mir04ange&layout=compact&theme=dark&hide_border=true&icon_color=ff4500&text_color=ffffff&title_color=ff4500" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mir04ange&layout=compact&theme=dark&hide_border=false&icon_color=ff4500&text_color=ffffff&title_color=ff4500" alt="Top Languages" />
 </p>
 
 ---
@@ -36,12 +36,12 @@ Jsem programátor, kterého baví pracovat na svém kódu více do hloubky a má
 ## <span style="color: #FF4500;">📊 ANALYTIKA AKTIVITY</span>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Mir04ange&show_icons=true&theme=dark&hide_border=true&icon_color=ff4500&text_color=ffffff&title_color=ff4500" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mir04ange&show_icons=true&theme=dark&hide_border=false&icon_color=ff4500&text_color=ffffff&title_color=ff4500" alt="GitHub Stats" />
 
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mir04ange&theme=dark&hide_border=true&stroke=ff4500&fire=ff4500&ring=ff4500" alt="GitHub Streak Stats" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mir04ange&theme=dark&hide_border=false&stroke=ff4500&fire=ff4500&ring=ff4500" alt="GitHub Streak Stats" />
 </p>
 
 ---
