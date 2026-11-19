@@ -1,203 +1,219 @@
  <div align="center">
 
-# 🔶 MIR04ANGE
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=MIR04ANGE&fontSize=85&fontColor=FF4500&animation=fadeIn&fontAlignY=45&desc=BUILD.%20OPTIMIZE.%20INNOVATE.&descSize=17&descColor=FFD700&descAlignY=72" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=650&lines=JAVA+%26+BACKEND+DEVELOPER;SOFTWARE+ARCHITECTURE+ENTHUSIAST;CLEAN+CODE.+SMART+SOLUTIONS.;ALWAYS+BUILDING+SOMETHING+NEW.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0D1117&text=MIR04ANGE&fontSize=85&fontColor=FF4500&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%7C%20ENGINEERING%20%7C%20INNOVATION&descSize=14&descColor=FFD700&descAlignY=65&animation=fadeIn" width="100%" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Mir04ange?style=for-the-badge&logo=github&color=FF4500&labelColor=0D1117)](https://github.com/Mir04ange)
-[![GitHub stars](https://img.shields.io/github/stars/Mir04ange?style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117)](https://github.com/Mir04ange?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=Mir04ange&style=for-the-badge&color=FF4500&label=PROFILE+VIEWS)](https://github.com/Mir04ange)
+<a href="https://github.com/Mir04ange">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1200&color=FF4500&center=true&vCenter=true&width=650&lines=SOFTWARE+DEVELOPER;JAVA+%26+OBJECT-ORIENTED+PROGRAMMING;BUILDING+SCALABLE+SOLUTIONS;FOCUSED+ON+CODE+QUALITY" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Mir04ange"><img src="https://img.shields.io/badge/GitHub-Mir04ange-FF4500?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:miroslavblecha063@gmail.com"><img src="https://img.shields.io/badge/Contact-Available-FFD700?style=flat-square&logo=gmail&logoColor=black" /></a>
+
+<br/><br/>
+
+**Turning ideas into functional software.**
 
 </div>
 
 ---
 
-<div align="center">
+## `01` / PROFILE
 
-## ⬛ WHO AM I?
+I'm a software development enthusiast focused on building practical applications, exploring software architecture and writing clean, maintainable code.
 
-</div>
+My approach combines analytical thinking, technical curiosity and attention to detail. I enjoy understanding problems at their core rather than simply implementing the first solution that works.
 
-I'm a developer who enjoys understanding how things work beneath the surface.
+I continuously explore new technologies and challenge myself with projects that expand my technical knowledge.
 
-I focus on building software that is not only functional but also **well-structured, maintainable and optimized**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I enjoy exploring new technologies, designing software architecture and turning ideas into practical solutions.
+**DEVELOPMENT**
 
-I believe that good software isn't measured by how many lines of code it contains, but by how effectively it solves a problem.
+- Object-oriented programming
+- Application architecture
+- Backend development
+- Database design
+- Web technologies
 
-```java
-public class Developer {
+</td>
+<td width="50%" valign="top">
 
-    private final String name = "Miroslav Blecha";
-    private final String username = "Mir04ange";
+**MINDSET**
 
-    private final String[] interests = {
-        "Software Development",
-        "Backend Engineering",
-        "Software Architecture",
-        "Automation",
-        "Problem Solving"
-    };
+- Clean and maintainable code
+- Problem-solving
+- Performance optimization
+- Continuous learning
+- Attention to detail
 
-    public String getPhilosophy() {
-        return "Write less. Think deeper. Build better.";
-    }
-}
-```
+</td>
+</tr>
+</table>
 
 ---
 
+## `02` / TECHNICAL SKILLS
+
 <div align="center">
 
-## ⚡ TECHNOLOGY STACK
+**PROGRAMMING LANGUAGES**
 
-*Technologies I work with, explore and continuously improve.*
+<img src="https://skillicons.dev/icons?i=java,js,ts,php&theme=dark" />
 
-### 💻 Programming & Development
+<br/>
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,php,html,css&theme=dark" />
+**WEB DEVELOPMENT**
 
-### 🌐 Frameworks & Backend
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=react,nette,nodejs&theme=dark" />
+<br/>
 
-### 🗄️ Databases & Tools
+**DATABASES & DEVELOPMENT TOOLS**
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,idea,vscode&theme=dark" />
 
-### 🎨 Design & 3D
+<br/>
+
+**DESIGN & 3D**
 
 <img src="https://skillicons.dev/icons?i=blender,ps,ai&theme=dark" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/Java-Object--Oriented%20Programming-FF4500?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend-Application%20Logic-FFD700?style=flat-square" />
+<img src="https://img.shields.io/badge/Databases-MySQL-FF4500?style=flat-square" />
+<img src="https://img.shields.io/badge/Framework-Nette-3484D2?style=flat-square" />
+
 </div>
 
 ---
 
-<div align="center">
-
-## 🚀 WHAT I'M INTERESTED IN
-
-</div>
-
-| Area | Focus |
-|:---|:---|
-| ☕ Java Development | OOP, interfaces, collections, multithreading |
-| 🏗️ Software Architecture | Clean code, SOLID, design patterns |
-| ⚙️ Backend Development | Business logic, APIs, data processing |
-| 🌐 Web Development | Modern interfaces and responsive applications |
-| 🤖 Automation | Smart systems and practical integrations |
-| 🧠 Problem Solving | Algorithms, optimization and efficient solutions |
-
----
+## `03` / SELECTED PROJECTS
 
 <div align="center">
 
-## 🔥 FEATURED PROJECTS
-
-*Some of the things I'm building and experimenting with.*
+*Practical development. Real implementation. Continuous improvement.*
 
 </div>
 
 ### 🏠 Smart Home Assistant
 
-**Java · OOP · Interfaces**
+**Java · OOP · Interfaces · Software Architecture**
 
-A modular smart-home assistant built around the idea of connecting different smart devices and services through a unified architecture.
+A modular smart-home application exploring object-oriented design and communication between different types of services and devices.
 
-- Smart lighting and thermostat management.
-- Device abstraction through interfaces.
-- Streaming service integration concepts.
-- Extensible architecture.
+- Unified interfaces for different smart devices.
+- Modular device architecture.
+- Smart lighting and thermostat functionality.
+- Integration concepts for streaming services.
 
-[![Repository](https://img.shields.io/badge/VIEW_PROJECT-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mir04ange/SOmeShitss)
+<a href="https://github.com/Mir04ange/SOmeShitss">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-FF4500?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 🧪 More projects coming soon...
+### 📐 Software Design & UML
 
-I'm continuously experimenting with new ideas, architectures and technologies.
+**UML · System Design · Object-Oriented Programming**
 
-[![Explore Repositories](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mir04ange?tab=repositories)
+Exploring application structure, class relationships and translating software requirements into understandable designs.
+
+<a href="https://github.com/Mir04ange/UmlDiagram">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+### ⚙️ More in development
+
+I continuously work on new ideas, experiment with different technologies and expand my portfolio.
+
+<a href="https://github.com/Mir04ange?tab=repositories">
+<img src="https://img.shields.io/badge/ALL_REPOSITORIES-30363D?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
+## `04` / GITHUB INSIGHTS
+
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mir04ange&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FFD700&text_color=E6EDF3&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mir04ange&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FFD700&text_color=FFFFFF&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mir04ange&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mir04ange&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=E6EDF3&langs_count=6" />
 
 <br/><br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=Mir04ange&theme=dark&hide_border=true&background=0D1117&ring=FF4500&fire=FFD700&currStreakLabel=FF4500&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFD700&dates=888888" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mir04ange&bg_color=0D1117&color=FFFFFF&line=FF4500&point=FFD700&area=true&hide_border=true" width="100%" />
+<img width="90%" src="https://streak-stats.demolab.com?user=Mir04ange&hide_border=true&background=0D1117&ring=FF4500&fire=FFD700&currStreakLabel=FF4500&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFD700&dates=888888" />
 
 </div>
 
 ---
 
-<div align="center">
+## `05` / DEVELOPMENT PRINCIPLES
 
-## 🧠 MY DEVELOPMENT PHILOSOPHY
+<table>
+<tr>
+<td width="50%">
 
-<br/>
+**01 — ARCHITECTURE FIRST**
 
-**01 — THINK BEFORE YOU CODE**
+Understand the structure before implementation.
 
-Understand the problem before writing the solution.
+</td>
+<td width="50%">
 
 **02 — QUALITY OVER QUANTITY**
 
-Readable, maintainable and optimized code matters.
+Readable code is better than unnecessary complexity.
 
-**03 — NEVER STOP LEARNING**
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-Technology evolves. So should developers.
+**03 — CONTINUOUS IMPROVEMENT**
 
-**04 — BUILD SOMETHING USEFUL**
+Every project is an opportunity to learn.
 
-The best projects solve real problems.
+</td>
+<td width="50%">
 
-<br/>
+**04 — SOLUTIONS THAT MATTER**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=2000&color=FFD700&center=true&vCenter=true&width=500&lines=THINK+DEEPER.;CODE+SMARTER.;BUILD+BETTER." />
+Technology should solve real problems.
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
+## `06` / LET'S CONNECT
+
 <div align="center">
 
-## 📬 LET'S CONNECT
+**Interested in working together or discussing a technical project?**
 
-**Have an interesting project, idea or technical challenge?**
-
-I'm always interested in exploring new opportunities and exchanging ideas.
+I'm open to interesting collaborations, practical challenges and opportunities to grow as a developer.
 
 <br/>
 
 <a href="mailto:miroslavblecha063@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FF4500?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-FF4500?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/Mir04ange">
-<img src="https://img.shields.io/badge/GITHUB-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/GITHUB_PROFILE-FFD700?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
 <br/><br/>
 
-**MIR04ANGE**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0D1117&section=footer&text=MIR04ANGE&fontSize=30&fontColor=FF4500&animation=fadeIn" width="100%" />
 
-<sub>BUILDING IDEAS INTO REALITY.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=footer&text=MIR04ANGE&fontSize=30&fontColor=FF4500&animation=fadeIn" width="100%" />
+<sub>ENGINEERED WITH CURIOSITY. BUILT WITH PURPOSE.</sub>
 
 </div>
